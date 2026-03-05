@@ -1,0 +1,1 @@
+"""cite-scout test suite."""

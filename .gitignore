@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.citescout_checkpoints.db
+.env
+.venv/
+venv/

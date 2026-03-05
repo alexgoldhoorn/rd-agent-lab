@@ -1,0 +1,22 @@
+# Core
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langgraph>=0.2.0
+
+# LLM providers
+langchain-openai>=0.3.0
+langchain-ollama>=0.3.0
+
+# Persistence (optional — omit if you only need in-memory)
+langgraph-checkpoint-sqlite>=2.0.0
+
+# Search tools
+tavily-python>=0.5.0
+arxiv>=2.1.0
+
+# Config
+python-dotenv>=1.0.0
+
+# Dev / test
+pytest>=8.0.0
